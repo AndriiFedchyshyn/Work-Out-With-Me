@@ -8,4 +8,4 @@ Custom Workout Plans: Add and display personalized workout routines.
 
 Responsive Design: Adjusts seamlessly to different screen sizes.
 
-Clean Interface: Simple and easy-to-navigate layout.
+Clean Interface: Simple & easy-to-navigate layout.
